@@ -1,1 +1,11 @@
-      :Database file:
+:Database file:
+
+
+problems of excel:
+
+
+1)duplicacy
+2)security
+3)isolation
+4)atomicity
+5)sharing&anamolies
